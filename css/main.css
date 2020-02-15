@@ -6,3 +6,53 @@
     text-decoration: none;
     margin-left: 10px;
   }
+
+ .image-link {
+     text-decoration: none;
+ }
+
+ .table-item {
+     padding: 10px;
+ }
+
+ /* Moby Dick page */
+ .moby-header {
+     text-align: center;
+     margin: 0 0 80px;
+ }
+
+ .whale-img {
+     margin: 0 auto;
+     display: block;
+ }
+
+ .moby-main {
+     width: 600px;
+     margin: 20px auto;
+     padding: 30px;
+     background-color: #fafafa;
+ }
+
+ .book-img {
+     float: left;
+     margin-right: 40px;
+ }
+
+ .home-quote {
+     padding: 2px 20px;
+     background: #eee;
+ }
+
+
+ /* website only contains one span */
+ span {
+     font-style: none;
+     font-weight: bold;
+     font-size: 24px;
+     color: #ff0000;
+ }
+
+ .moby-quote {
+     font-style: italic;
+     font-size:  20px;
+ }
